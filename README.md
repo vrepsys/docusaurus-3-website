@@ -1,6 +1,14 @@
 # Website
 
-![](./img/editor.png)
+| asdf     | sadf                 |     |
+| -------- | -------------------- | --- |
+| sadfsadf | ![](/img/editor.png) |     |
+| sadfsadf |                      |     |
+
+| asdfasdf |                                       |     |
+| -------- | ------------------------------------- | --- |
+| sadfasdf | ![](/img/cactus-1.1701249698176.jpeg) |     |
+|          |                                       |     |
 
 This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
 
