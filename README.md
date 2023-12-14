@@ -1,14 +1,19 @@
+---
+title: My Page Title
+---
+
 # Website
 
-| asdf     | sadf                 |     |
-| -------- | -------------------- | --- |
-| sadfsadf | ![](/img/editor.png) |     |
-| sadfsadf |                      |     |
+| asdf | sa df | sd f | asdfsadf |
+| --- | --- | --- | --- |
+| sadfsadfasdf | sdf | hello there how is it going? | sadfsadfsadfsdafsadfsadfsdafsdafsdaf |
+|  |  |  | sdafsdafsdafsdaf |
+|  |  |  |  |
 
-| asdfasdf |                                       |     |
-| -------- | ------------------------------------- | --- |
-| sadfasdf | ![](/img/cactus-1.1701249698176.jpeg) |     |
-|          |                                       |     |
+| sadf | sadf     | sdf |
+| ---- | -------- | --- |
+| sadf | sdafsadf | sdf |
+| dsaf | sdaf     | sdf |
 
 This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
 
